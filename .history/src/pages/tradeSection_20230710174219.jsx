@@ -12,33 +12,33 @@ export default function TradeSection() {
                     easy, fast, reliable and hassle free in 3 easy steps
                 </p>
             </div>
-            <div className="trade-link-section" >
+            <div>
                 <div>
-                    <img src={profileIcon} />
+                    <img />
                     <div>
-                        <h4>Create Your Account</h4>
+                        <h3></h3>
                         <p>
-                            lorem ipsum
+
                         </p>
                     </div>
                 </div>
 
                 <div>
-                    <img src={debitCardIcon} />
+                    <img />
                     <div>
-                        <h4>Connect Bank Account</h4>
+                        <h3></h3>
                         <p>
-                            lorem lorem ipsum
+
                         </p>
                     </div>
                 </div>
 
                 <div>
-                    <img src={bitcoinIcon} />
+                    <img />
                     <div>
-                        <h4>Trade Conveniently</h4>
+                        <h3></h3>
                         <p>
-                            lorem lorem ipsum
+
                         </p>
                     </div>
                 </div>

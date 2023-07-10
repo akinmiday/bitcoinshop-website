@@ -16,7 +16,7 @@ export default function TradeSection() {
                 <div>
                     <img src={profileIcon} />
                     <div>
-                        <h4>Create Your Account</h4>
+                        <h5>Create Your Account</h5>
                         <p>
                             lorem ipsum
                         </p>
@@ -26,7 +26,7 @@ export default function TradeSection() {
                 <div>
                     <img src={debitCardIcon} />
                     <div>
-                        <h4>Connect Bank Account</h4>
+                        <h5>Connect Bank Account</h5>
                         <p>
                             lorem lorem ipsum
                         </p>
@@ -36,7 +36,7 @@ export default function TradeSection() {
                 <div>
                     <img src={bitcoinIcon} />
                     <div>
-                        <h4>Trade Conveniently</h4>
+                        <h5>Trade Conveniently</h5>
                         <p>
                             lorem lorem ipsum
                         </p>

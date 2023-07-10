@@ -129,11 +129,6 @@
   .trade-section{
     margin-top: 30px;
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 110px;
-    flex-shrink: 0;
-    padding: 20px;
   }
 
   .left-trade-section{
@@ -153,14 +148,5 @@
 
   .trade-link-section >div{
     display: flex;
-    align-items: center;
-    width: 310px;
-    padding: 10px;
-    margin: 10px;
-    border: #EAEAEA 1px solid;
-  }
-
-  .trade-link-section > div >img{
-    height: 50px;
-    margin-right: 20px;
+    justify-content: center;
   }
