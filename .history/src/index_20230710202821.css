@@ -228,13 +228,12 @@
   .review-section{
     text-align: center;
     margin-top: 50px;
-    
+    color: #6E1CBC;
   }
 
   .review-section h1{
     font-size: 40px;
     padding: 20px;
-    color: #6E1CBC;
   }
 
   .review-card{
@@ -242,58 +241,17 @@
     position: relative;
     align-items: center;
     
-    
   }
 
   .review-card-area {
     position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
   }
 
   .review-card-area h2{
     position: absolute;
-    color: black;
-    font-size: 18px;
-    top: 70px;
+    top: 50px;
+    left: 40%;
     
-
-  }
-
-  .review-card-area > p {
-    position: absolute;
-    font-size: 12px;
-    width: 370px;
-    color: black;
-    top: 100px;
-  }
-
-  .review-image{
-    border-radius: 102px;
-    border: 5px solid #6E1CBC;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat, #C4C4C4;
-    width: 102px;
-    height: 102px;
-    flex-shrink: 0;
-    position: absolute;
-    top: -50px;
-
-  }
-
-  .trade-count-area{
-    padding: 20px;
-    margin-top: 30px;
-  }
-
-  .trade-count-area h1{
-    font-size: 60px;
-    color: #6E1CBC;
-  }
-
-  .trade-count-area p{
-    font-size: 35px;
-    margin-top: -20px;
   }
   

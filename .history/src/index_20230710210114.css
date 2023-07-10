@@ -267,7 +267,7 @@
     font-size: 12px;
     width: 370px;
     color: black;
-    top: 100px;
+    top: 80px;
   }
 
   .review-image{
@@ -284,7 +284,7 @@
 
   .trade-count-area{
     padding: 20px;
-    margin-top: 30px;
+    margin-top: 50px;
   }
 
   .trade-count-area h1{

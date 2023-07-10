@@ -282,18 +282,12 @@
 
   }
 
-  .trade-count-area{
-    padding: 20px;
-    margin-top: 30px;
-  }
-
   .trade-count-area h1{
     font-size: 60px;
     color: #6E1CBC;
   }
 
   .trade-count-area p{
-    font-size: 35px;
-    margin-top: -20px;
+    font-size: 350px;
   }
   
