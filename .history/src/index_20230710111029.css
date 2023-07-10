@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.header{
+    display: flex;
+    color:#6E1CBC;
+    display: flex;
+    align-items: center;
+    border-bottom: #EAEAEA solid;
+    width: 1440px;
+    height: 60px;
+    flex-shrink: 0;
+    
+}
+
+
+.right-side-header{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}
+
+.right-side-header > img{
+    padding: 10px;
+    height: 44px;
+
+}
+
+.shop-logo{
+    color:#FFCC00 ;
+}
+
+
+.middle-section-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    padding-left: 100px;
+}
+/* .middle-section-header{
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 10px;
+    padding-left: 100px;
+} */

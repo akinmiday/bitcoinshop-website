@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.header{
+    display: flex;
+    color:#6E1CBC;
+    display: flex;
+    align-items: center;
+    border-bottom: #EAEAEA solid 1px;
+    height: 60px;
+    flex-shrink: 0;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+.right-side-header{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}
+
+.right-side-header > img{
+    padding: 10px;
+    height: 44px;
+
+}
+
+.shop-logo{
+    color:#FFCC00 ;
+}
+
+
+.middle-section-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.right-side-header >button {
+    background-color: #6E1CBC;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+
+.footer{
+    background-color: #6E1CBC;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    flex-shrink: 0;
+}
+
+.title-section{
+    display: flex;
+    padding: 30px;
+    height: 400px;
+    justify-content: space-around;
+    
+}
+
+.title-section >img{
+    padding: 10px;
+}
+
+.left-side-title{
+    width: 450px;
+    padding: 20px;
+}
+
+.left-side-title > h1{
+    color: #6E1CBC;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 78px;
+    
+    
+}
+
+.left-side-title > p{
+    font-size: 18px;
+    padding: 20px 0;
+}
+
+.left-side-title >button{
+    color: #ffffff;
+    background-color: #6E1CBC;
+    padding: 5px 10px;
+    border-radius: 7px;
+    text-align: center;
+}
