@@ -193,7 +193,7 @@
     background: #FFF;
     backdrop-filter: blur(100px);
     width: 260px;
-    height: 450px;
+    height: 500px;
     text-align: left;
   }
 
@@ -205,7 +205,6 @@
   .trade-with-us-icon-section div >p{
     padding: 0 20px;
     font-size: 12px;
-    color: #808080;
   }
 
   .trade-with-us-icon-section img {

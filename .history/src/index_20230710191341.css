@@ -179,12 +179,9 @@
 
   .trade-with-us-icon-section{
     display: flex;
-    margin-top: 20px;
     padding-top: 30px;
     gap: 30px;
     justify-content: center;
-    align-items: center;
-    padding-bottom: 20px;
   }
 
   .trade-with-us-icon-section >div{
@@ -192,24 +189,8 @@
     border: 1px solid #EAEAEA;
     background: #FFF;
     backdrop-filter: blur(100px);
-    width: 260px;
-    height: 450px;
-    text-align: left;
-  }
-
-  .trade-with-us-icon-section div >h2{
-    color: #6E1CBC;
-    padding: 20px;
-  }
-
-  .trade-with-us-icon-section div >p{
-    padding: 0 20px;
-    font-size: 12px;
-    color: #808080;
   }
 
   .trade-with-us-icon-section img {
     width: 250px;
-    height: 250px;
-    margin-top: 10px;
   }
