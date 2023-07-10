@@ -6,14 +6,14 @@
 }
 
 .header{
-    display: flex;
+    /* display: flex;
     color:#6E1CBC;
     display: flex;
     align-items: center;
-    border-bottom: #EAEAEA solid;
+    border-bottom: #EAEAEA solid; */
     width: 1440px;
-    height: 60px;
-    flex-shrink: 0;
+height: 90px;
+flex-shrink: 0;
 }
 
 
@@ -37,6 +37,4 @@
     display: inline-flex;
     align-items: flex-start;
     gap: 20px;
-    margin-left: 100px;
-    padding: 10px;
 }

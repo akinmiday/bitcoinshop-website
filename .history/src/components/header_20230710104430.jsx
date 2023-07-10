@@ -8,11 +8,11 @@ export default function Header() {
             <h4>Bitcoin<span className="shop-logo" >Shop</span></h4>
         </div>
         <div className="middle-section-header" >
-            <span>Home</span>
-            <span>Contact us</span>
-            <span>About us</span>
-            <span>FAQs</span>
-            <span>Terms of Service</span>
+            <h5>Home</h5>
+            <h5>Contact us</h5>
+            <h5>About us</h5>
+            <h5>FAQs</h5>
+            <h5>Terms of Service</h5>
         </div>
 
 

@@ -37,6 +37,6 @@
     display: inline-flex;
     align-items: flex-start;
     gap: 20px;
-    margin-left: 100px;
-    padding: 10px;
+    left: 50%;
+    transform: translateX(-50%);
 }

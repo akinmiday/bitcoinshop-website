@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    color:#6E1CBC;
+    display: flex;
+    align-items: center;
+}
+
+.right-side-header{
+    display: flex;
+    align-items: center;
+}
