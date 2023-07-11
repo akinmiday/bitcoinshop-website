@@ -47,7 +47,6 @@
     color: #ffffff;
     padding: 5px 10px;
     border-radius: 8px;
-    border: none;
 }
 
 .footer{
@@ -122,13 +121,13 @@
     gap: 30px;
   }
   
-.bottom-row-rates-section {
+  .bottom-row-rates-section {
     display: flex;
     justify-content: center;
     gap: 30px;
   }
 
-.trade-section{
+  .trade-section{
     margin-top: 30px;
     display: flex;
     justify-content: center;
@@ -138,22 +137,22 @@
     padding: 20px;
   }
 
-.left-trade-section{
+  .left-trade-section{
     width: 400px;
     
   }
 
-.left-trade-section h1 {
+  .left-trade-section h1 {
     color: #6E1CBC;
     font-size: 45px;
     padding: 10px;
   }
 
-.left-trade-section p{
+  .left-trade-section p{
     padding: 10px;
   }
 
-.trade-link-section >div{
+  .trade-link-section >div{
     display: flex;
     align-items: center;
     width: 310px;
@@ -162,7 +161,7 @@
     border: #EAEAEA 1px solid;
   }
 
-.trade-link-section > div >img{
+  .trade-link-section > div >img{
     height: 50px;
     margin-right: 20px;
   }
@@ -172,14 +171,14 @@
     margin-top: 50px;
   }
 
-.trade-with-us-heading > h1{
+  .trade-with-us-heading > h1{
     color: #6E1CBC;
     font-size: 50px;
     line-height: 60px;
     padding: 20px;
   }
 
-.trade-with-us-icon-section{
+  .trade-with-us-icon-section{
     display: flex;
     margin-top: 20px;
     padding-top: 30px;
@@ -189,7 +188,7 @@
     padding-bottom: 20px;
   }
 
-.trade-with-us-icon-section >div{
+  .trade-with-us-icon-section >div{
     border-radius: 18px;
     border: 1px solid #EAEAEA;
     background: #FFF;
@@ -202,24 +201,24 @@
     -moz-box-shadow: -2px 0px 74px -36px rgba(0,0,0,0.71);
   }
 
-.trade-with-us-icon-section div >h2{
+  .trade-with-us-icon-section div >h2{
     color: #6E1CBC;
     padding: 20px;
   }
 
-.trade-with-us-icon-section div >p{
+  .trade-with-us-icon-section div >p{
     padding: 0 20px;
     font-size: 12px;
     color: #808080;
   }
 
-.trade-with-us-icon-section img {
+  .trade-with-us-icon-section img {
     width: 250px;
     height: 250px;
     margin-top: 10px;
   }
 
-.carousel-area{
+  .carousel-area{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -227,19 +226,19 @@
     margin-top: 60px;
   }
 
-.review-section{
+  .review-section{
     text-align: center;
     margin-top: 50px;
     
   }
 
-.review-section h1{
+  .review-section h1{
     font-size: 40px;
     padding: 20px;
     color: #6E1CBC;
   }
 
-.review-card{
+  .review-card{
     width: 70%;
     position: relative;
     align-items: center;
@@ -247,7 +246,7 @@
     
   }
 
-.review-card-area {
+  .review-card-area {
     position: relative;
     display: flex;
     align-items: center;
@@ -255,7 +254,7 @@
 
   }
 
-.review-card-area h2{
+  .review-card-area h2{
     position: absolute;
     color: black;
     font-size: 18px;
@@ -264,7 +263,7 @@
 
   }
 
-.review-card-area > p {
+  .review-card-area > p {
     position: absolute;
     font-size: 12px;
     width: 370px;
@@ -272,7 +271,7 @@
     top: 100px;
   }
 
-.review-image{
+  .review-image{
     border-radius: 102px;
     border: 5px solid #6E1CBC;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat, #C4C4C4;
@@ -284,64 +283,18 @@
 
   }
 
-.trade-count-area{
+  .trade-count-area{
     padding: 20px;
     margin-top: 30px;
   }
 
-.trade-count-area h1{
+  .trade-count-area h1{
     font-size: 60px;
     color: #6E1CBC;
   }
 
-.trade-count-area p{
+  .trade-count-area p{
     font-size: 35px;
     margin-top: -20px;
   }
-
-
-.contact-section-area{
-  display: flex;
-  justify-content: space-between;
-  border-top: #C4C4C4 1px solid;
-  padding: 25px 15px;
-}
-.social-contact-area{
-  display: flex;
-
-}
-
-.social-contact-area >img{
-  width:112px;
-  height: 120px;
-  padding: 5px;
-}
-
-.social-contact-area >div >h1{
-  color: #6E1CBC;
-  padding: 10px;
-}
-
-.social-icon-container{
-  display: flex;
-  padding-left: 10px;
-  gap: 7px;
-}
-
-.contacts-area h3{
-  color: #6E1CBC;
-  font-size: smaller;
-}
-
-.contacts-area div{
-  padding: 3px;
-}
-
-a{
-  text-decoration: none;
-  color: black;
-}
-
-
-
   

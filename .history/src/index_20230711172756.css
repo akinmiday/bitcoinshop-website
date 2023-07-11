@@ -299,49 +299,14 @@
     margin-top: -20px;
   }
 
-
-.contact-section-area{
-  display: flex;
-  justify-content: space-between;
-  border-top: #C4C4C4 1px solid;
-  padding: 25px 15px;
-}
 .social-contact-area{
   display: flex;
-
 }
 
 .social-contact-area >img{
   width:112px;
-  height: 120px;
-  padding: 5px;
-}
-
-.social-contact-area >div >h1{
-  color: #6E1CBC;
   padding: 10px;
 }
-
-.social-icon-container{
-  display: flex;
-  padding-left: 10px;
-  gap: 7px;
-}
-
-.contacts-area h3{
-  color: #6E1CBC;
-  font-size: smaller;
-}
-
-.contacts-area div{
-  padding: 3px;
-}
-
-a{
-  text-decoration: none;
-  color: black;
-}
-
 
 
   

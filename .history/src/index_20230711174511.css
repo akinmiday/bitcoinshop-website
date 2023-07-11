@@ -303,12 +303,10 @@
 .contact-section-area{
   display: flex;
   justify-content: space-between;
-  border-top: #C4C4C4 1px solid;
-  padding: 25px 15px;
 }
 .social-contact-area{
   display: flex;
-
+  border-top: #C4C4C4 1px solid;
 }
 
 .social-contact-area >img{
@@ -330,16 +328,10 @@
 
 .contacts-area h3{
   color: #6E1CBC;
-  font-size: smaller;
 }
 
 .contacts-area div{
   padding: 3px;
-}
-
-a{
-  text-decoration: none;
-  color: black;
 }
 
 
