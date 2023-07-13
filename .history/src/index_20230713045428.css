@@ -399,7 +399,6 @@ body{
   border: none;
   position: sticky;
   top: 0;
-  background-color: #FFF;
 }
 
 .left-side-header >h3{
@@ -493,19 +492,6 @@ display: grid;
 
 .contact-section-area{
   flex-direction: column-reverse;
-}
-
-.contacts-area >div{
-padding: 5px;
-}
-
-.contacts-area.nav{
-  display: none;
-}
-
-.trade-with-us-icon-section img {
-  width: 220px;
-  height: 220px;
 }
 
 }

@@ -495,17 +495,4 @@ display: grid;
   flex-direction: column-reverse;
 }
 
-.contacts-area >div{
-padding: 5px;
-}
-
-.contacts-area.nav{
-  display: none;
-}
-
-.trade-with-us-icon-section img {
-  width: 220px;
-  height: 220px;
-}
-
 }

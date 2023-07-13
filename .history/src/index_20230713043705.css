@@ -388,18 +388,11 @@ a{
 
 @media screen and (max-width: 767px) {
 
-body{
-  width: 100vw;
-}  
-
 
   /* header section */
 
 .header{
   border: none;
-  position: sticky;
-  top: 0;
-  background-color: #FFF;
 }
 
 .left-side-header >h3{
@@ -479,33 +472,7 @@ display: grid;
 
 .trade-with-us-heading > h1{
   font-size: 45px;
-  line-height: 50px;
-  padding-bottom: 10px;
-}
-
-.trade-with-us-heading > p{
-  padding: 0 20px;
-}
-
-.trade-with-us-icon-section{
-  flex-direction: column;
-}
-
-.contact-section-area{
-  flex-direction: column-reverse;
-}
-
-.contacts-area >div{
-padding: 5px;
-}
-
-.contacts-area.nav{
-  display: none;
-}
-
-.trade-with-us-icon-section img {
-  width: 220px;
-  height: 220px;
+  line-height: 45px;
 }
 
 }

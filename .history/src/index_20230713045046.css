@@ -388,18 +388,11 @@ a{
 
 @media screen and (max-width: 767px) {
 
-body{
-  width: 100vw;
-}  
-
 
   /* header section */
 
 .header{
   border: none;
-  position: sticky;
-  top: 0;
-  background-color: #FFF;
 }
 
 .left-side-header >h3{
@@ -424,6 +417,7 @@ body{
 .title-section{
   display: grid;
   padding: 10px;
+  width: 100vw;
 }
 
 .left-side-title > h1{
@@ -436,7 +430,7 @@ body{
 .left-side-title >p{
   font-size: 14px;
   line-height: 20px;
-  width: 350px;
+  width: 300px;
   padding-left: 35px;
   font-weight: 400;
 }
@@ -450,6 +444,7 @@ body{
   padding: 30px;
   justify-content: center;
   padding-top: 2px;
+  width: 100vw;
 }
 
 .rates-section{
@@ -493,19 +488,6 @@ display: grid;
 
 .contact-section-area{
   flex-direction: column-reverse;
-}
-
-.contacts-area >div{
-padding: 5px;
-}
-
-.contacts-area.nav{
-  display: none;
-}
-
-.trade-with-us-icon-section img {
-  width: 220px;
-  height: 220px;
 }
 
 }
