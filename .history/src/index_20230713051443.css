@@ -401,9 +401,6 @@ body{
   top: 0;
   background-color: #FFF;
 }
-.left-side-title{
-  width: fit-content;
-}
 
 .left-side-header >h3{
   font-size: 20px;
@@ -487,7 +484,7 @@ display: grid;
 }
 
 .trade-with-us-heading > p{
-  padding: 0 10px;
+  padding: 0 20px;
 }
 
 .trade-with-us-icon-section{

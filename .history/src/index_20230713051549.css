@@ -401,9 +401,6 @@ body{
   top: 0;
   background-color: #FFF;
 }
-.left-side-title{
-  width: fit-content;
-}
 
 .left-side-header >h3{
   font-size: 20px;
